@@ -1,0 +1,13 @@
+{
+  "version": 3,
+  "features": [
+    "assignment",
+    "attendance",
+    "mid_term",
+    "class_test",
+    "semester_final"
+  ],
+  "trained_at": "2026-10-22T19:59:24",
+  "accuracy": 92.0,
+  "r2": 0.9668
+}
